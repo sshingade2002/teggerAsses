@@ -1,0 +1,21 @@
+{
+    "uid": "ccaad09f-b2b7-4e37-9a24-5266aebd608",
+    "error": false,
+    "status": 200,
+    "body":{
+        "interaction":[
+        {
+            "date": {
+                "year": 2020,
+                "month":11,
+                "day":25
+            },
+            "token": 3.370138888248563
+        }
+
+        ]
+
+    }
+
+
+}
